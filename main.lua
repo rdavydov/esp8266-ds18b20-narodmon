@@ -10,7 +10,7 @@ function sendNarod()
     local tm
     print(sensors)
     local dataN
-    dataN = "#b827ebdb790d\n"
+    dataN = "#XXXXXXXXXXX\n" - change to your MAC
 --for sensor = sensors, 1, -1 do
 
 tm = ds18b20.read(addres[sensors])
