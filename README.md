@@ -3,4 +3,5 @@ Project with esp8266 and ds18b20 sensor. temperature sending to narodmon.ru weat
 
 
 init.lua - change AP name and pass to AP to your
+
 main.lua - change DataN to you unique MAC. This is an ID of your senson on narodmon.ru service.   
